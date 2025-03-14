@@ -131,7 +131,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/public/project2.png",
+    image: "./project2.png",
     source_code_link: "https://github.com/OmadbekXusanboyev/PESTO-Restorant",
   },
   {
@@ -152,7 +152,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/public/project3.png",
+    image: "./project3.png",
     source_code_link: "https://github.com/OmadbekXusanboyev/JARVIS-Voice-Assisent",
   },
   {
@@ -173,7 +173,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: "/public/project5.png",
+    image: "./project5.png",
     source_code_link: "https://github.com/OmadbekXusanboyev/Typing-Game",
   },
 ];

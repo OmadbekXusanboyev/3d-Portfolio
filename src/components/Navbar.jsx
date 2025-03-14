@@ -42,7 +42,7 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src='/public/o-high-resolution-logo-transparent.png' alt='logo' className='w-9 h-9 object-contain' />
+          <img src='./o-high-resolution-logo-transparent.png' alt='logo' className='w-9 h-9 object-contain' />
           <p className='text-white text-[18px] font-bold cursor-pointer flex '>
             Omadbek &nbsp;
             <span className='sm:block hidden'> | Frontend Developer</span>
